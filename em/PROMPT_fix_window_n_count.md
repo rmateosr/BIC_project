@@ -74,7 +74,7 @@ Paste this prompt into a fresh Claude Code session running under the repo root. 
 
 - The chr22 smoke output (or `.tmp`) is still on disk at `smokes/run_smoke4_full_pipeline/timebased/`.
 - The region files are still at `smokes/run_smoke4_full_pipeline/{weekinit,week20}/read_format_split/chr22/`.
-- Python 3.12 + numpy/pandas/scipy/pytest are loadable on Shirokane via `module load python/3.12.0`.
+- Python 3.12 + numpy/pandas/scipy/pytest are available (on an HPC with environment modules, e.g. `module load python/3.12.0`).
 - The `em_unconstrained/` exclusion principle from the original migration is still in force.
 
 ## What this prompt does NOT do
