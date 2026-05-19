@@ -74,17 +74,6 @@ For a self-contained synthetic example (no real data needed), see
 - A job scheduler — the pipeline scripts assume **SGE** (`qsub`), but the
   per-step shell scripts can be adapted to SLURM with minimal changes
 
-## Tests
-
-```bash
-cd em
-pytest tests/
-```
-
-Covers: EM convergence on synthetic data, BIC parameter counting for all four
-models, M-step closed-form updates, BIC `n` correction, reproducibility under
-fixed seeds, synthetic-truth round-trips for the 3-way and 4-way drivers.
-
 ## Inputs and outputs
 
 Per-time-point inputs:
