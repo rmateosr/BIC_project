@@ -1,0 +1,1 @@
+../../upstream/scripts/modkitinner_withreference_bychrandhap.sh

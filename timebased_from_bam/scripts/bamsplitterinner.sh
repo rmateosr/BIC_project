@@ -1,0 +1,1 @@
+../../upstream/scripts/bamsplitterinner.sh

@@ -1,0 +1,26 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# SGE / SLURM logs and per-job artifacts
+log/
+*.o[0-9]*
+*.e[0-9]*
+*.po[0-9]*
+*.pe[0-9]*
+*.tmp
+
+# Third-party binary (download from https://github.com/nanoporetech/modkit/releases)
+upstream/bin/modkit
+
+# Editor / OS junk
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/

@@ -1,0 +1,1 @@
+../../upstream/scripts/modkitfilterouter_bychrandhap.sh

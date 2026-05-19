@@ -1,0 +1,1 @@
+../../upstream/scripts/coordfixer_outer.sh

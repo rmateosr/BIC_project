@@ -1,0 +1,1 @@
+../../upstream/scripts/linebylineextractingreadinfo_HG002.R

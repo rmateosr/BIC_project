@@ -1,0 +1,1 @@
+../../upstream/scripts/bamsplitter_part2_nowbyhap_inner_noH.sh

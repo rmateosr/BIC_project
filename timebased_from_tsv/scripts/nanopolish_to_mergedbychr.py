@@ -1,0 +1,1 @@
+../../upstream/scripts/nanopolish_to_mergedbychr.py

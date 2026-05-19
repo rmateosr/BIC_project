@@ -1,0 +1,1 @@
+../../upstream/scripts/modkitouter_withreference_bychrandhap.sh

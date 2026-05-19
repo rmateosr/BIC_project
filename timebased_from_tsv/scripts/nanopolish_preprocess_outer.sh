@@ -1,0 +1,1 @@
+../../upstream/scripts/nanopolish_preprocess_outer.sh

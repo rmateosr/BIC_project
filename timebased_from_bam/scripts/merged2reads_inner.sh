@@ -1,0 +1,1 @@
+../../upstream/scripts/merged2reads_inner.sh

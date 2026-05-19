@@ -1,0 +1,1 @@
+../upstream/bamsplitterouter.sh
